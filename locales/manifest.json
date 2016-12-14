@@ -17,7 +17,7 @@
     "ru",
     "no"
   ],
-  "default_locale": "fr",
+  "default_locale": "ru",
   "resources": [
     "./{{locale}}.l20n"
   ]

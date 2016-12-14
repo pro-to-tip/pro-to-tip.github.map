@@ -9,8 +9,8 @@ var tilelayer_properties = {
     attribution: '<span data-l10n-id="attribution_osm">Map data &copy; <a href="http://openstreetmap.org/">OpenStreetMap</a> contributors</span>'
     }
     
-var osm_stamen = new L.TileLayer('http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png', tilelayer_properties);
-var osm_cartodb = new L.TileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', tilelayer_properties);
+var osm_stamen = new L.TileLayer('https://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png', tilelayer_properties);
+var osm_cartodb = new L.TileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', tilelayer_properties);
 var tile_layer_list = [osm_cartodb, osm_stamen]
 
 var map = new L.Map('map').addLayer(osm_stamen).setView(new L.LatLng(55.7393,37.6206), 11);

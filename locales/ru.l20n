@@ -80,7 +80,7 @@ OpenBeerMap translation file [ru] | noemie.lehuby(at)gmail.com | MIT Licensed
 /* Насторойки */
 <modal_setup_title "Настройки дисплея"> 
 <modal_setup_title_beers "<i></i> В приоритете"> /* TODO */
-<modal_setup_title_tilelayer "<i></i> Режим"> /* TODO */
+<modal_setup_title_tilelayer "<i></i> Режим отображения"> /* TODO */
 <modal_setup_title_favorites "<i></i> Любимое пиво"> 
 <modal_setup_label_selected "Количество выбранного пива :">
 <modal_setup_button_clear "<i></i> Сбросить">

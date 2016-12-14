@@ -9,6 +9,9 @@ body {
 input[type="radio"], input[type="checkbox"] {
   margin: 0;
 }
+.leaflet-control-attribution leaflet-control{
+visibility:hidden;
+}
 
 .modal .close{
     font-size:30px;

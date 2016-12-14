@@ -6,7 +6,7 @@
 /* Basemap Layers */
 var tilelayer_properties = {
     opacity: 0.7,
-    attribution: '<span data-l10n-id="attribution_osm">Map data &copy; <a href="http://openstreetmap.org/">OpenStreetMap</a> contributors</span>'
+    attribution: '<span data-l10n-id="attribution_osm">Map data &copy; <a href="https://openstreetmap.org/">OpenStreetMap</a> contributors</span>'
     }
     
 var osm_stamen = new L.TileLayer('https://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png', tilelayer_properties);

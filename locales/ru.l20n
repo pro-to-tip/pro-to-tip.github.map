@@ -70,7 +70,7 @@ OpenBeerMap translation file [ru] | noemie.lehuby(at)gmail.com | MIT Licensed
 <map_popup_opening_hours "Часы работы">
 <map_popup_happy_hours "Скидки/Акции">
 <map_popup_beer "Разливное пиво">
-<map_popup_edit "Добавить информацию о заведении">
+<map_popup_edit "открыть">
 <map_popup_location "Я здесь">
 
 /* Выбор слоя */
